@@ -3,12 +3,11 @@ I'm Emi from Argentina, and I'm a FullStack MERN Web Developer. I like to learn 
 I like to learn in a self-taught and/or intensive way, I recently finished a 600-hour bootcamp at Mindhub LA. I like technologies like React, React Native, HTML, CSS and JS. In addition to UX / UI design and design in general
 
 ## Skills and Experience
-* ⚛ React
+* ⚛ React, Redux
 * 📱 React Native
 * 💻 HTML, CSS, JS
-* Redux
-* Mongodb, Mongoose
-* Nodejs
+* 🦎 Mongodb, Mongoose
+* 👨‍💻 Nodejs
 
 ## Examples of Work
 
