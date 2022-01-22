@@ -10,17 +10,17 @@ I like to learn in a self-taught and/or intensive way, I recently finished a 600
 * 👨‍💻 Nodejs
 
 ## Examples of Work
-### **MyTinerary** 
+### <a href="https://mytinerary-alegre.herokuapp.com/">**MyTinerary** </a>
 A **travel itinerary** web app
 
 <a href="https://mytinerary-alegre.herokuapp.com/"><img src="https://i.imgur.com/ppmTTfQ.png" ></a>
 
-### **HEXAGON** 
+### <a href="https://hexagon-techstore.herokuapp.com/">**HEXAGON** </a>
 An **Ecommerce** FullStack for phones and accessories
 
 <a href="https://hexagon-techstore.herokuapp.com/"><img src="https://i.imgur.com/E1I5LWH.png" ></a>
 
-### **ITinDev** 
+### <a href="https://itindev-mindhub.herokuapp.com/">**ITinDev** </a>
 A **Tinder clone** made with **MERN**
 
 <a href="https://itindev-mindhub.herokuapp.com/"><img src="https://i.imgur.com/2cW8yLC.png" ></a>
