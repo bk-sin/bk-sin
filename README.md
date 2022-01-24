@@ -13,16 +13,6 @@ I like to learn in a self-taught and/or intensive way, I recently finished a 600
 * 🦎 Mongodb, Mongoose
 * 👨‍💻 Nodejs
 
-
-
-##
-
-<div align="center">
-  <img height="25em"  src="https://komarev.com/ghpvc/?username=bk-sin&label=Profile%20views&color=DAC03C&style=flat" alt="bk-sin" />
-</div>
-
-##
-
 <div align="center">
   <a href="https://github.com/LautaroStein">
   
