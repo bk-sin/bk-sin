@@ -16,8 +16,8 @@ I like to learn in a self-taught and/or intensive way, I recently finished a 600
 <div align="center">
   <a href="https://github.com/LautaroStein">
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LautaroStein&show_icons=true&theme=gruvbox"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroStein&theme=gruvbox"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=bk-sin&show_icons=true&theme=gruvbox"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bk-sin&theme=gruvbox"/>
     
 </div>
 
