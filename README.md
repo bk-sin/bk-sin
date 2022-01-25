@@ -14,7 +14,7 @@ I like to learn in a self-taught and/or intensive way, I recently finished a 600
 * 👨‍💻 Nodejs
 
 <div align="center">
-  <a href="https://github.com/LautaroStein">
+  <a href="https://github.com/bk-sin">
   
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=bk-sin&show_icons=true&theme=gruvbox"/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bk-sin&theme=gruvbox"/>
