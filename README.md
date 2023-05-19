@@ -1,8 +1,7 @@
 # Emiliano Alegre
 <a rel="noreferrer" target="_blank" href="https://emiliano-alegre.netlify.app/">PORTFOLIO</a>
 
-<p>I'm Emi from Argentina, and I'm a FullStack MERN Web Developer. I like to learn in a self-taught and/or intensive way, I recently finished a 600-hour bootcamp at Mindhub LA. I like technologies like React, React Native, HTML, CSS and JS. In addition to UX / UI design and design in general
-I like to learn in a self-taught and/or intensive way, I recently finished a 600-hour bootcamp at Mindhub LA. I like technologies like React, React Native, HTML, CSS and JS. In addition to UX / UI design and design in general</p>
+<p>I'm Emi from Argentina, a self-taught and intensive learner who recently completed a 600-hour bootcamp at Mindhub LA. As a Full Stack MERN Web Developer, I'm passionate about technologies such as React, React Native, HTML, CSS, and JavaScript. In addition to my development skills, I have a keen interest in UX/UI design and enjoy expanding my knowledge in this area.</p>
 
 - 🌱 I’m currently learning Web and Mobile development technologies 
 - 🥅 2022 Goals: Become a Full Stack MERN & Mobile Developer
